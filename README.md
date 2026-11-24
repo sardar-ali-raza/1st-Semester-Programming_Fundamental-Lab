@@ -1,7 +1,5 @@
 Programming Fundamentals Lab
 
-Student Information
-
 - Name: Sardar Ali Raza
 - Roll No: 2026-SE-02
 - Class: BS Software Engineering
